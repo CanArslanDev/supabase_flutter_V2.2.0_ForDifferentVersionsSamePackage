@@ -1,8 +1,8 @@
 import 'dart:async';
 
 import 'package:http/http.dart';
-import 'package:supabase/src/constants.dart';
-import 'package:supabase/supabase.dart';
+import 'package:supabasev204/src/constants.dart';
+import 'package:supabasev204/supabase.dart';
 import 'package:yet_another_json_isolate/yet_another_json_isolate.dart';
 
 import 'auth_http_client.dart';

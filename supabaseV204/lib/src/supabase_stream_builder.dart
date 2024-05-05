@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:rxdart/rxdart.dart';
-import 'package:supabase/supabase.dart';
+import 'package:supabasev204/supabase.dart';
 
 part 'supabase_stream_filter_builder.dart';
 

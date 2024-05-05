@@ -1,4 +1,4 @@
-name: supabase
+name: supabasev204
 description: A dart client for Supabase. This client makes it simple for developers to build secure and scalable products.
 version: 2.0.4
 homepage: 'https://supabase.com'

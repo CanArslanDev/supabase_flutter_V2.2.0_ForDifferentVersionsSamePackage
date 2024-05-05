@@ -1,4 +1,4 @@
-import 'package:supabase/src/version.dart';
+import 'package:supabasev204/src/version.dart';
 
 class Constants {
   static const Map<String, String> defaultHeaders = {

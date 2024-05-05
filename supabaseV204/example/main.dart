@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:io';
 
-import 'package:supabase/supabase.dart';
+import 'package:supabasev204/supabase.dart';
 
 Future<void> main() async {
   const supabaseUrl = 'YOUR_SUPABASE_URL';

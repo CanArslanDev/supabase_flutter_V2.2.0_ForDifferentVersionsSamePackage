@@ -1,5 +1,5 @@
 import 'package:http/http.dart';
-import 'package:supabase/supabase.dart';
+import 'package:supabasev204/supabase.dart';
 
 class AuthHttpClient extends BaseClient {
   final Client _inner;

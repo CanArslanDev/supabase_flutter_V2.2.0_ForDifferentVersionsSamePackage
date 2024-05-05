@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:io';
 
-import 'package:supabase/supabase.dart';
+import 'package:supabasev204/supabase.dart';
 import 'package:test/test.dart';
 import 'package:web_socket_channel/io.dart';
 

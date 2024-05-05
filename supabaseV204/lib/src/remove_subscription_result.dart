@@ -1,4 +1,4 @@
-import 'package:supabase/src/supabase_realtime_error.dart';
+import 'package:supabasev204/src/supabase_realtime_error.dart';
 
 class RemoveSubscriptionResult {
   const RemoveSubscriptionResult({required this.openSubscriptions, this.error});

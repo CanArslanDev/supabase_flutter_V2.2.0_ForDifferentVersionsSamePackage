@@ -344,13 +344,13 @@
       "languageVersion": "3.0"
     },
     {
-      "name": "supabase",
+      "name": "supabasev204",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2024-05-05T21:58:54.933145Z",
+  "generated": "2024-05-05T22:08:29.280874Z",
   "generator": "pub",
   "generatorVersion": "3.3.4"
 }

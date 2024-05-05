@@ -122,8 +122,8 @@
       "languageVersion": "3.0"
     },
     {
-      "name": "gotrue",
-      "rootUri": "file:///C:/Users/canar/AppData/Local/Pub/Cache/hosted/pub.dev/gotrue-2.6.1",
+      "name": "gotruev230",
+      "rootUri": "../supabasev204/gotruev230",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -278,14 +278,14 @@
       "languageVersion": "3.2"
     },
     {
-      "name": "postgrest",
-      "rootUri": "file:///C:/Users/canar/AppData/Local/Pub/Cache/hosted/pub.dev/postgrest-2.1.1",
+      "name": "postgrestv210",
+      "rootUri": "../supabasev204/postgrestv210",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
-      "name": "realtime_client",
-      "rootUri": "file:///C:/Users/canar/AppData/Local/Pub/Cache/hosted/pub.dev/realtime_client-2.0.4",
+      "name": "realtime_clientv200",
+      "rootUri": "../supabasev204/realtime_clientv200",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -362,8 +362,8 @@
       "languageVersion": "2.18"
     },
     {
-      "name": "storage_client",
-      "rootUri": "file:///C:/Users/canar/AppData/Local/Pub/Cache/hosted/pub.dev/storage_client-2.0.1",
+      "name": "storage_clientv200",
+      "rootUri": "../supabasev204/storage_clientv200",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -500,7 +500,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2024-05-05T22:20:36.259182Z",
+  "generated": "2024-05-05T22:57:12.415252Z",
   "generator": "pub",
   "generatorVersion": "3.3.4"
 }

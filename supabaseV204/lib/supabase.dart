@@ -5,10 +5,10 @@
 library supabase;
 
 export 'package:functions_client/functions_client.dart';
-export 'package:gotrue/gotrue.dart';
-export 'package:postgrest/postgrest.dart';
-export 'package:realtime_client/realtime_client.dart';
-export 'package:storage_client/storage_client.dart';
+export 'package:gotruev230/gotrue.dart';
+export 'package:postgrestv210/postgrest.dart';
+export 'package:realtime_clientv200/realtime_client.dart';
+export 'package:storage_clientv200/storage_client.dart';
 
 export 'src/auth_user.dart';
 export 'src/realtime_client_options.dart';

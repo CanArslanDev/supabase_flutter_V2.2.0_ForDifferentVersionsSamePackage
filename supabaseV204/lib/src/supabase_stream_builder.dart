@@ -1,5 +1,6 @@
 import 'dart:async';
 
+import 'package:realtime_clientv200/realtime_client.dart';
 import 'package:rxdart/rxdart.dart';
 import 'package:supabasev204/supabase.dart';
 

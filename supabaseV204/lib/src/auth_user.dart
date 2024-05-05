@@ -1,4 +1,4 @@
-import 'package:gotrue/gotrue.dart' show User;
+import 'package:gotruev230/gotrue.dart' show User;
 
 class AuthUser extends User {
   AuthUser({

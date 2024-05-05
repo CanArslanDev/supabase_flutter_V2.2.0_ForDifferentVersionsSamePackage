@@ -6,7 +6,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/widgets.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:supabasev204/supabase.dart';
+import 'package:supabase_flutter_v220/supabase_flutter.dart';
 
 import './local_storage_stub.dart'
     if (dart.library.html) './local_storage_web.dart' as web;

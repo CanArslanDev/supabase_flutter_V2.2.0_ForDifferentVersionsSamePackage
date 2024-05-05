@@ -1,6 +1,7 @@
 import 'dart:async';
 
 import 'package:http/http.dart';
+import 'package:realtime_clientv200/realtime_client.dart';
 import 'package:supabasev204/src/constants.dart';
 import 'package:supabasev204/supabase.dart';
 import 'package:yet_another_json_isolate/yet_another_json_isolate.dart';

@@ -153,7 +153,7 @@ packages:
     source: hosted
     version: "2.1.0"
   gotrue:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: gotrue
       sha256: c9c984f088320a5c5e87c7a34571e3de3982cca4cbd8b978e59d36baf748edfb
@@ -493,10 +493,10 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.2.0"
-  supabaseV204:
+  supabasev204:
     dependency: "direct main"
     description:
-      path: supabaseV204
+      path: supabasev204
       relative: true
     source: path
     version: "2.0.4"

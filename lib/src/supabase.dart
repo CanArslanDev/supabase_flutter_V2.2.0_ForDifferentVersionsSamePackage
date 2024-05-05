@@ -6,6 +6,7 @@ import 'package:http/http.dart';
 import 'package:supabase_flutter_v220/src/constants.dart';
 import 'package:supabase_flutter_v220/src/supabase_auth.dart';
 import 'package:supabase_flutter_v220/supabase_flutter.dart';
+import 'package:supabasev204/supabase.dart';
 
 /// Supabase instance.
 ///

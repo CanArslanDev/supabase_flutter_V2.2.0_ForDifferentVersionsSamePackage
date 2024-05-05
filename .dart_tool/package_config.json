@@ -380,8 +380,8 @@
       "languageVersion": "2.18"
     },
     {
-      "name": "supabaseV204",
-      "rootUri": "../supabaseV204",
+      "name": "supabasev204",
+      "rootUri": "../supabasev204",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -500,7 +500,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2024-05-05T21:43:14.005242Z",
+  "generated": "2024-05-05T22:20:36.259182Z",
   "generator": "pub",
   "generatorVersion": "3.3.4"
 }

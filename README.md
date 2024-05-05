@@ -1,5 +1,17 @@
-# `supabase_flutter`
 
+# `Follow the steps below to run it`
+  1. Download this repo (if you try to give the path to pubspec yaml via git, it will not work, you can only download and use the repo)
+  2. Unzip the "supabase_flutter_V2.2.0_ForDifferentVersionsSamePackage-main" zip file you downloaded and put it into the flutter project you will use.
+  3. add this line under dependencies in pubspec yaml
+```yaml
+supabase_flutter_v220:
+  path: ./supabase_flutter_V2.2.0_ForDifferentVersionsSamePackage-main
+```
+  4. That's it, you can import the package to the folder you will use like this;
+```dart
+import 'package:supabase_flutter_v220/supabase_flutter.dart';
+```
+# `supabase_flutter`
 [![pub package](https://img.shields.io/pub/v/supabase_flutter.svg)](https://pub.dev/packages/supabase_flutter)
 [![pub test](https://github.com/supabase/supabase-flutter/workflows/Test/badge.svg)](https://github.com/supabase/supabase-flutter/actions?query=workflow%3ATest)
 

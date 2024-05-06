@@ -134,14 +134,14 @@
       "languageVersion": "3.0"
     },
     {
-      "name": "hive",
-      "rootUri": "file:///C:/Users/canar/AppData/Local/Pub/Cache/hosted/pub.dev/hive-2.2.3",
+      "name": "hive_flutterv110",
+      "rootUri": "../hive_flutterv110",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
-      "name": "hive_flutter",
-      "rootUri": "file:///C:/Users/canar/AppData/Local/Pub/Cache/hosted/pub.dev/hive_flutter-1.1.0",
+      "name": "hivev221",
+      "rootUri": "../hivev221",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -500,7 +500,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2024-05-05T22:57:12.415252Z",
+  "generated": "2024-05-06T11:27:06.784530Z",
   "generator": "pub",
   "generatorVersion": "3.3.4"
 }
